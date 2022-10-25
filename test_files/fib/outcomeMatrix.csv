@@ -1,0 +1,11 @@
+TestCase,pass
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib0,1
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib1,1
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib2,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib3,1
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib4,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib5,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib6,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib7,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib8,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib9,0

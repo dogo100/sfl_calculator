@@ -1,0 +1,11 @@
+TestCase,at.tugraz.ist.stracke.jsr.Calculator:10,at.tugraz.ist.stracke.jsr.Calculator:12,at.tugraz.ist.stracke.jsr.Calculator:3,at.tugraz.ist.stracke.jsr.Calculator:5,at.tugraz.ist.stracke.jsr.Calculator:6,at.tugraz.ist.stracke.jsr.Calculator:8,at.tugraz.ist.stracke.jsr.Calculator:9
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult0,1,1,0,1,0,1,1
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult1,0,0,1,1,1,0,0
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult2,0,0,1,1,1,0,0
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult3,0,1,1,1,0,1,1
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult4,1,1,0,1,0,1,1
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult5,1,1,0,1,0,1,1
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult6,0,1,1,1,0,1,1
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult7,1,1,0,1,0,1,1
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult8,0,0,1,1,1,0,0
+at.tugraz.ist.stracke.jsr.CalculatorTest:mult9,1,1,0,1,0,1,1

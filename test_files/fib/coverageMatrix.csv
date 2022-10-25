@@ -1,0 +1,11 @@
+TestCase,at.tugraz.ist.stracke.jsr.Calculator:10,at.tugraz.ist.stracke.jsr.Calculator:11,at.tugraz.ist.stracke.jsr.Calculator:12,at.tugraz.ist.stracke.jsr.Calculator:13,at.tugraz.ist.stracke.jsr.Calculator:15,at.tugraz.ist.stracke.jsr.Calculator:3,at.tugraz.ist.stracke.jsr.Calculator:5,at.tugraz.ist.stracke.jsr.Calculator:6,at.tugraz.ist.stracke.jsr.Calculator:8,at.tugraz.ist.stracke.jsr.Calculator:9
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib0,0,0,0,0,0,1,1,1,0,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib1,0,0,0,0,0,1,1,1,0,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib2,1,1,1,1,1,0,1,0,1,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib3,1,1,1,1,1,1,1,0,1,1
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib4,1,1,1,1,1,0,1,0,1,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib5,1,1,1,1,1,0,1,0,0,1
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib6,1,1,1,1,1,0,1,0,1,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib7,1,1,1,1,1,0,1,0,0,1
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib8,1,1,1,1,1,0,1,0,1,0
+at.tugraz.ist.stracke.jsr.FibonacciTest:fib9,1,1,1,1,1,0,1,0,0,1
